@@ -1,0 +1,62 @@
+.logo{
+    filter: grayscale(1) brightness(0);
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover {
+    color:orange;
+}
+.navbar-brand {
+    color:orange;
+    font-weight: 700;
+}
+.opt {
+    
+    padding: 15px;
+    width: 100%;
+}
+.opt:hover {
+    border: 2px solid orange;
+}
+select {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input {
+    background-color: orange;
+    height: 50px;
+    border: 4px;
+    padding: 10px;
+    text-align: center;
+}
+.col-md-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img-hero {
+    width: 100%;
+    text-align: center;
+}
+.text p {
+    width: 80%;
+    margin-left: 100px;
+    text-align: center;
+}
+.col-md-4 {
+    width: auto;
+    background-color: grey;
+    color: blue;
+    font-weight: 700;
+    padding: 30px
+
+}
+.col-md-4 i {
+    padding:50px;
+    background-color: orange;
+}
+.count h1 {
+    text-align: center;
+}
